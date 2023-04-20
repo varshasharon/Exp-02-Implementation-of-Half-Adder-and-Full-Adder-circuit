@@ -65,11 +65,14 @@ endmodule
 ```
 # Logic symbol & Truthtable
 HALF ADDER
-![image](https://user-images.githubusercontent.com/98278161/233406228-c31a4c9f-3e2f-4634-9ff9-b4f3e2a720fd.png)
+
+![image](https://user-images.githubusercontent.com/98278161/233407795-b486bc82-8a33-4de5-bfdf-1ce00e7d77ac.png)
+
 ![image](https://user-images.githubusercontent.com/98278161/233406400-aa4e9d48-29bd-4f5e-b6bd-054288a2b00a.png)
 
 FULL ADDER
 ![image](https://user-images.githubusercontent.com/98278161/233406669-80489602-3de5-478e-b475-e2e86dc8e600.png)
+
 ![image](https://user-images.githubusercontent.com/98278161/233406753-44f6ccc5-279f-425f-989c-d7bb1ec2dba9.png)
 
 ### Output:
