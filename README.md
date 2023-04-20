@@ -77,7 +77,7 @@ endmodule
 ![image](https://user-images.githubusercontent.com/98278161/233406753-44f6ccc5-279f-425f-989c-d7bb1ec2dba9.png)
 
 # Output:
-# RTL
+### RTL
 
 ### HALF ADDER
 ![image](https://user-images.githubusercontent.com/98278161/233406844-fe59d360-9dc1-4fb7-8e18-5dc42c147d30.png)
