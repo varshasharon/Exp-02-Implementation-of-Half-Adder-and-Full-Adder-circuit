@@ -64,30 +64,33 @@ or (co,e,f);
 endmodule 
 ```
 # Logic symbol & Truthtable
-HALF ADDER
+# HALF ADDER
 
 ![image](https://user-images.githubusercontent.com/98278161/233407795-b486bc82-8a33-4de5-bfdf-1ce00e7d77ac.png)
 
 ![image](https://user-images.githubusercontent.com/98278161/233406400-aa4e9d48-29bd-4f5e-b6bd-054288a2b00a.png)
 
-FULL ADDER
+# FULL ADDER
+
 ![image](https://user-images.githubusercontent.com/98278161/233406669-80489602-3de5-478e-b475-e2e86dc8e600.png)
 
 ![image](https://user-images.githubusercontent.com/98278161/233406753-44f6ccc5-279f-425f-989c-d7bb1ec2dba9.png)
 
 ### Output:
 ### RTL
-HALF ADDER
+
+# HALF ADDER
 ![image](https://user-images.githubusercontent.com/98278161/233406844-fe59d360-9dc1-4fb7-8e18-5dc42c147d30.png)
 
-FULL ADDER
+# FULL ADDER
 ![image](https://user-images.githubusercontent.com/98278161/233406905-e28db123-32ac-4a86-9a88-6fd7142597c7.png)
 
 ### TIMING DIAGRAM
-HALF ADDER
+
+# HALF ADDER
 ![image](https://user-images.githubusercontent.com/98278161/233407074-e9389a28-b80c-4679-90e0-dd042a70ade8.png)
 
-FULL ADDER
+# FULL ADDER
 ![image](https://user-images.githubusercontent.com/98278161/233407150-0f0ee126-8953-4023-ac9f-5b6bdda773a2.png)
 
 ### Result:
