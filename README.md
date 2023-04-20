@@ -1,4 +1,4 @@
-# Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit
+# Exp-03-Implementation-of-Half-Adder-and-Full-Adder-circuit
 
 # Implementation-of-Half-Adder-and-Full-Adder-circuit
 ### AIM:
@@ -36,12 +36,34 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
 Program:
-/*
+```
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
-*/
-Logic symbol & Truthtable
+Developed by: VARSHA SHARON
+RegisterNumber:  212222100058
+
+HALF ADDER
+
+module hadd (a,b,s,c);
+input a,b;
+output s,c;
+xor(s,a,b);
+and(c,a,b);
+endmodule
+
+FULL ADDER
+
+module fadd (a,b,ci,s,co);
+input a,b,ci;
+output s,co;
+wire d,e,f;
+xor (d,a,b);
+xor (s,d,ci);
+and (e,d,ci);
+and (f,a,b);
+or (co,e,f);
+endmodule 
+```
+# Logic symbol & Truthtable
 RTL realization
 
 ### Output:
