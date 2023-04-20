@@ -64,13 +64,28 @@ or (co,e,f);
 endmodule 
 ```
 # Logic symbol & Truthtable
-RTL realization
+HALF ADDER
+![image](https://user-images.githubusercontent.com/98278161/233406228-c31a4c9f-3e2f-4634-9ff9-b4f3e2a720fd.png)
+![image](https://user-images.githubusercontent.com/98278161/233406400-aa4e9d48-29bd-4f5e-b6bd-054288a2b00a.png)
+
+FULL ADDER
+![image](https://user-images.githubusercontent.com/98278161/233406669-80489602-3de5-478e-b475-e2e86dc8e600.png)
+![image](https://user-images.githubusercontent.com/98278161/233406753-44f6ccc5-279f-425f-989c-d7bb1ec2dba9.png)
 
 ### Output:
 ### RTL
+HALF ADDER
+![image](https://user-images.githubusercontent.com/98278161/233406844-fe59d360-9dc1-4fb7-8e18-5dc42c147d30.png)
+
+FULL ADDER
+![image](https://user-images.githubusercontent.com/98278161/233406905-e28db123-32ac-4a86-9a88-6fd7142597c7.png)
+
 ### TIMING DIAGRAM
+HALF ADDER
+![image](https://user-images.githubusercontent.com/98278161/233407074-e9389a28-b80c-4679-90e0-dd042a70ade8.png)
 
-
-### TRUTH TABLE 
+FULL ADDER
+![image](https://user-images.githubusercontent.com/98278161/233407150-0f0ee126-8953-4023-ac9f-5b6bdda773a2.png)
 
 ### Result:
+Hence, the half adder and full adder are studied and the truth table for different logic gates are verified.
